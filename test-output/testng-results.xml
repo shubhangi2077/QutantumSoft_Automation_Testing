@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-09T10:21:43 IST" name="Suite" finished-at="2025-09-09T10:21:59 IST" duration-ms="16334">
+    <groups>
+    </groups>
+    <test started-at="2025-09-09T10:21:43 IST" name="Test" finished-at="2025-09-09T10:21:59 IST" duration-ms="16334">
+      <class name="com.qa.testscripts.My_Test">
+        <test-method is-config="true" signature="driverSet()[pri:0, instance:com.qa.testscripts.My_Test@34e9fd99]" started-at="2025-09-09T10:21:43 IST" name="driverSet" finished-at="2025-09-09T10:21:54 IST" duration-ms="10564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSet -->
+        <test-method signature="LaunchBrowser()[pri:1, instance:com.qa.testscripts.My_Test@34e9fd99]" started-at="2025-09-09T10:21:54 IST" name="LaunchBrowser" finished-at="2025-09-09T10:21:58 IST" duration-ms="4347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testscripts.My_Test@34e9fd99]" started-at="2025-09-09T10:21:58 IST" name="tearDown" finished-at="2025-09-09T10:21:59 IST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscripts.My_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
